@@ -1,0 +1,14 @@
+*~
+~*
+
+.hg/*
+.idea/*
+
+dist/*
+build/*
+
+*.db
+*.sqlite
+*.py[cod]
+*.sw[po]
+*.tmp
